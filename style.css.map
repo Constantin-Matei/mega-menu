@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/style.scss"],"names":[],"mappings":"AACA,YACE,SAAU,CACV,aAAc,CACd,eAAgB,CAChB,yBAAkC,CAClC,YAAa","file":"style.css","sourcesContent":["$baseUrl: \"/pug-starter/\";\n.constantin {\r\n  color: red;\r\n  padding: 10rem;\r\n  background: blue;\r\n  border: 10px solid rgb(221, 15, 0);\r\n  margin: 10rem;\r\n}\r\n"]}
